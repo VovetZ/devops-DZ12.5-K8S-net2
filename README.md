@@ -167,7 +167,7 @@ spec:
 ```
 </details>
 
-[ссылка на deploy-back.yml](deploy-back.yml)
+[Ссылка на deploy-back.yml](deploy-back.yml)
 
 Запустим развёртывание  приложения _backend_
 
@@ -239,6 +239,7 @@ spec:
       protocol: TCP
       targetPort: 8080
 ```
+</details>
 
 [ССылка на service-back.yml](service-back.yml)
 
