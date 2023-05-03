@@ -241,7 +241,7 @@ spec:
 ```
 </details>
 
-[ССылка на service-back.yml](service-back.yml)
+[Ссылка на service-back.yml](service-back.yml)
 
 Запустим развёртывание
 
